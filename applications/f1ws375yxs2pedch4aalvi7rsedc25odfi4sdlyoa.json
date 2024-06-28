@@ -35,11 +35,11 @@
     "Weekly Allocation": "512TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-06-20 10:56:57.293240769 UTC",
     "Validated By": "CloudX-Lab",
     "Active": true,
-    "Updated At": "2024-06-20 12:00:03.953903733 UTC",
+    "Updated At": "2024-06-28 05:04:16.573414073 UTC",
     "Active Request ID": "874823f3-2abd-44d5-b57a-0cd34d0e66e6",
     "On Chain Address": "f1ws375yxs2pedch4aalvi7rsedc25odfi4sdlyoa",
     "Multisig Address": "false",
@@ -67,9 +67,16 @@
       "Request Type": "Refill",
       "Created At": "2024-06-20 12:00:03.953910219 UTC",
       "Updated At": "2024-06-20 12:00:03.953912108 UTC",
-      "Active": true,
-      "Allocation Amount": "512TiB",
-      "Signers": []
+      "Active": false,
+      "Allocation Amount": "1PiB",
+      "Signers": [
+        {
+          "Github Username": "CloudX-Lab",
+          "Signing Address": "f1xnjscyxj6bur34xkut32uk34bfwf2g7p7frsajq",
+          "Created At": "2024-06-28 05:04:12.451000000 UTC",
+          "Message CID": "bafy2bzacedcduxyal2cjfmn3ecq3zc5cbkj4pkptmdulwueaxzayum5lppj5s"
+        }
+      ]
     }
   ]
 }
