@@ -39,8 +39,8 @@
     "Validated At": "2024-06-20 10:56:57.293240769 UTC",
     "Validated By": "CloudX-Lab",
     "Active": true,
-    "Updated At": "2024-08-02 03:14:10.033517487 UTC",
-    "Active Request ID": "7405d331-f85a-49a1-ae28-08acc922dfe0",
+    "Updated At": "2024-08-20 07:22:37.294973904 UTC",
+    "Active Request ID": "7cea6e35-27c8-43eb-b0ab-0cd1d327ff93",
     "On Chain Address": "f1ws375yxs2pedch4aalvi7rsedc25odfi4sdlyoa",
     "Multisig Address": "false",
     "edited": false
@@ -91,6 +91,22 @@
           "Signing Address": "f1xnjscyxj6bur34xkut32uk34bfwf2g7p7frsajq",
           "Created At": "2024-08-02 03:14:06.658000000 UTC",
           "Message CID": "bafy2bzaceblvfgvrrejelaupaqg3kgbedlj57gjdgnysxjpyx5oqapdlpp3ae"
+        }
+      ]
+    },
+    {
+      "ID": "7cea6e35-27c8-43eb-b0ab-0cd1d327ff93",
+      "Request Type": "Refill",
+      "Created At": "2024-08-20 07:22:10.293958743 UTC",
+      "Updated At": "2024-08-20 07:22:10.293960447 UTC",
+      "Active": false,
+      "Allocation Amount": "1.39PiB",
+      "Signers": [
+        {
+          "Github Username": "CloudX-Lab",
+          "Signing Address": "f1xnjscyxj6bur34xkut32uk34bfwf2g7p7frsajq",
+          "Created At": "2024-08-20 07:22:33.600000000 UTC",
+          "Message CID": "bafy2bzaceaeypdfuy422gahdu2rcnq5guvlfmzspe5adwq7cjn3ufmbhrmsz6"
         }
       ]
     }
