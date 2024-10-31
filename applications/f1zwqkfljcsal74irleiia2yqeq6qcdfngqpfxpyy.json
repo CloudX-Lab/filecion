@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "4",
     "Brief history of your project and organization": "test",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "test",
@@ -36,14 +35,15 @@
     "Weekly Allocation": "32GiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-03-29 02:37:53.361296569 UTC",
     "Validated By": "CloudX-Lab",
     "Active": true,
-    "Updated At": "2024-03-29 02:37:53.361300197 UTC",
+    "Updated At": "2024-10-31 14:15:58.998691148 UTC",
     "Active Request ID": "30712e42-f928-43c4-a38a-5e7a20b89fd1",
     "On Chain Address": "f1zwqkfljcsal74irleiia2yqeq6qcdfngqpfxpyy",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": null
   },
   "Allocation Requests": [
     {
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-03-29 02:37:53.361301543 UTC",
       "Updated At": "2024-03-29 02:37:53.361302228 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "32GiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "CloudX-Lab",
+          "Signing Address": "f1xnjscyxj6bur34xkut32uk34bfwf2g7p7frsajq",
+          "Created At": "2024-10-31 14:15:55.498000000 UTC",
+          "Message CID": "bafy2bzacedxmd5pmijt6s4gicziyvj3eeyw7ypegqhidcnoyovu7opunmieo2"
+        }
+      ]
     }
   ]
 }
